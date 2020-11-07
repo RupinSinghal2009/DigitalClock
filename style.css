@@ -1,0 +1,12 @@
+body{
+	background: url(background.jpeg);
+}
+
+.clock{
+	margin: 0;
+	font-size: 150px;
+    text-align: center;
+    padding: 10;
+    color: yellow;
+    background-color: rgba(0,0,0,0.3);
+}
